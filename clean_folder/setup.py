@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='clean_folder',
       version='1',
       description='Cleaning script',
-      url='',
+      url='https://github.com/LOKFaaDDiiV/HW7',
       classifiers=[
         "Python version :: Python :: 3",
         "Licence :: OSI Approved :: MIT Licence",
